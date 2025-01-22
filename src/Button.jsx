@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Button() {
   return (
-    <button>Dipesh hacnyyyyyy</button>
+    <button>Dipesh ledey godddd</button>
   )
 }
